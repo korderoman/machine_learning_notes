@@ -2264,3 +2264,15 @@ formulas.docx
 /modulo_2_redes_convolucionales_y_generativas/yolo_ultralytics/peru_plate_numbers_detection_v2/yolo11n.pt
 /modulo_2_redes_convolucionales_y_generativas/yolo_ultralytics/peru_plate_numbers_detection_v2/salida.mp4
 /utils/
+/modulo_5_langchain_docker/.idea/
+/modulo_5_langchain_docker/data/
+/modulo_4_langchain/.idea/
+/modulo_4_langchain/.venv/
+/modulo_4_langchain/assets/
+/modulo_4_langchain/tutorials_phase_1/
+/modulo_4_langchain/tutorials_phase_2/
+/modulo_4_langchain/tutorials_phase_3/assets/
+/modulo_4_langchain/tutorials_phase_3/data/
+/modulo_4_langchain/.env
+/modulo_4_langchain/tutorials_phase_3/langchain_multimodal_fail.ipynb
+/modulo_5_langchain_docker/rag_multimodal.ipynb
